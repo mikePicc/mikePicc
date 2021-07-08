@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mikePicc
-- 👀 I’m interested in making cool shit that i like (dumbass games, websites, hip-hop related computer stuff, shit like that) but the nerd in me likes AI/ML and front end dev
-- 🌱 I’m currently learning python, imaging technologies, and app dev
-- 💞️ I’m looking to collaborate on ehhh idk
+- 👋 Hi! I'm Michael and I'm based out of the California Bay Area! 
+- 👀 I’m interested in the bleeding edge of technology and how that can affect the lives of everyday people for the better. Specific areas of technology that I love to learn about it AI/ML. 
+- 🌱 I’m currently studying Software Engineering at San Jose State University with a minor in Mathematics. 
+- 💞️ I’m looking to collaborate on any projects that involve AI/ML or pretty much anything that can be applied to have a better quality of life effect for people! 
 - 📫 How to reach me: piccerillomichael@gmail.com
 
