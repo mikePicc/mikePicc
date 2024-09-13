@@ -1,5 +1,5 @@
 - 👋 Hi! I'm Michael and I'm based out of Oakland, CA! 
 - 👀 I’m interested in the bleeding edge of technology and how that can affect the lives of everyday people for the better. Specific areas of technology that I love to create is typically AI/ML based using Python. 
-- 🌱 I am a recent graduate from San Jose State University and majored in Software Engineering with a concentration in AI/ML. 
+- 🌱 I am a graduate from San Jose State University and majored in Software Engineering with a concentration in AI/ML. 
 - 💞️ I’m looking to collaborate on any projects that involve AI/ML or pretty much anything that can be applied to have a better quality of life effect for people! 
 - 📫 How to reach me: piccerillomichael@gmail.com
